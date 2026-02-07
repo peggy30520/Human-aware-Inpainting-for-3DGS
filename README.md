@@ -24,7 +24,7 @@ Our pipeline integrates human detection, 2D inpainting to cleanse human-related 
 ## Enviornment Installation
 
 Follow below link to install environment for each step.
-For more details, please check the [slide](https://docs.google.com/presentation/d/1QuOdZz6EfIgqzuIl6e_2EOWnqUBKkcEW/edit?usp=sharing&ouid=113869948284078028465&rtpof=true&sd=true).
+For more details, please check the [slide](https://docs.google.com/presentation/d/18VqqEurprAsEXztSMj0TrKWLArMkXXwG/edit?usp=sharing&ouid=113869948284078028465&rtpof=true&sd=true).
 
 1. [FFmpeg](https://ffmpeg.org/download.html) → extracted frames
 2. [YOLOv11](https://github.com/ultralytics/ultralytics) → human detection
@@ -35,7 +35,7 @@ For more details, please check the [slide](https://docs.google.com/presentation/
 
 ## Step by step
 
-For more details, please check the [slide](https://docs.google.com/presentation/d/1QuOdZz6EfIgqzuIl6e_2EOWnqUBKkcEW/edit?usp=sharing&ouid=113869948284078028465&rtpof=true&sd=true).
+For more details, please check the [slide](https://docs.google.com/presentation/d/18VqqEurprAsEXztSMj0TrKWLArMkXXwG/edit?usp=sharing&ouid=113869948284078028465&rtpof=true&sd=true).
 
 1. Record a video and extract frames using ***FFMPEG***.
 2. Detect humans on the extracted frames using ***YOLOv11***.
