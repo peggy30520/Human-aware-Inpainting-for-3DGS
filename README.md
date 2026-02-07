@@ -9,11 +9,11 @@ Our pipeline integrates human detection, 2D inpainting to cleanse human-related 
 
 ## Result
 
-![Result](https://hackmd.io/_uploads/BJCbRhNvbx.jpg)
+![Result](image/Result.jpg)
 
 ## Pipeline Overview
 
-![Pipeline](https://hackmd.io/_uploads/rkUGpINP-g.png)
+![Pipeline](image/Pipeline.png)
 
 ## Equipment requirement
 * Windows 11
