@@ -24,7 +24,7 @@ Our pipeline integrates human detection, 2D inpainting to cleanse human-related 
 ## Enviornment Installation
 
 Follow below link to install environment for each step.
-For more details, please check the [slide](https://docs.google.com/presentation/d/18VqqEurprAsEXztSMj0TrKWLArMkXXwG/edit?usp=sharing&ouid=113869948284078028465&rtpof=true&sd=true).
+For more details, please check the [slide](https://drive.google.com/file/d/1gasSqpMVCJ1-1dx9ND8HrBzPrULGUvqB/view?usp=drive_link).
 
 1. [FFmpeg](https://ffmpeg.org/download.html) → extracted frames
 2. [YOLOv11](https://github.com/ultralytics/ultralytics) → human detection
@@ -35,7 +35,7 @@ For more details, please check the [slide](https://docs.google.com/presentation/
 
 ## Step by step
 
-For more details, please check the [slide](https://docs.google.com/presentation/d/18VqqEurprAsEXztSMj0TrKWLArMkXXwG/edit?usp=sharing&ouid=113869948284078028465&rtpof=true&sd=true).
+For more details, please check the [slide](https://drive.google.com/file/d/1gasSqpMVCJ1-1dx9ND8HrBzPrULGUvqB/view?usp=drive_link).
 
 1. Record a video and extract frames using ***FFMPEG***.
 2. Detect humans on the extracted frames using ***YOLOv11***.
@@ -62,7 +62,7 @@ All source videos were captured using a smartphone camera.
 * Expo_escalator: A first-person perspective on an escalator at the Osaka Expo 2025, featuring surrounding crowds.
 * Expo_pavilion: Visitors lining up in front of a pavilion at the Osaka Expo 2025.
 
-## Refercence
+## Reference
 ```
 [1] B. Kerbl, G. Kopanas, T. Leimk¨uhler, and G. Drettakis. 3d gaussian splatting for real-time radiance field rendering. ACM Transactions on Graphics, 42(4), July 2023.
 [2] Z.Fan, K.Wang,K.Wen,Z.Zhu,D.Xu,andZ.Wang. Lightgaussian: Unbounded 3d gaussian compression with 15x reduction and 200+ fps, 2023.
