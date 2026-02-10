@@ -62,6 +62,20 @@ All source videos were captured using a smartphone camera.
 * Expo_escalator: A first-person perspective on an escalator at the Osaka Expo 2025, featuring surrounding crowds.
 * Expo_pavilion: Visitors lining up in front of a pavilion at the Osaka Expo 2025.
 
+## BibTex
+```
+@inproceedings{Liao2025,
+  title = {Human-Aware Inpainting for 3D Gaussian Splatting in Dynamic Scenes},
+  url = {http://dx.doi.org/10.1109/ISMAR-Adjunct68609.2025.00197},
+  DOI = {10.1109/ismar-adjunct68609.2025.00197},
+  booktitle = {2025 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)},
+  publisher = {IEEE},
+  author = {Liao,  Pei-Ru and Kawai,  Norihiko},
+  year = {2025},
+  month = oct,
+  pages = {801–802}
+}
+```
 ## Reference
 ```
 [1] B. Kerbl, G. Kopanas, T. Leimk¨uhler, and G. Drettakis. 3d gaussian splatting for real-time radiance field rendering. ACM Transactions on Graphics, 42(4), July 2023.
