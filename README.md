@@ -2,7 +2,7 @@
 
 [ISMAR 2025 Poster Paper](https://norihi-k.com/paper/ismar25_liao.pdf) | [Demo Video](https://www.youtube.com/watch?v=Zr8YoUZKxJM)
 
-### Abastract
+### Abstract
 Reconstructing 3D scenes from casual videos is essential for creating immersive AR/VR experiences. However, real-world captures in public spaces often include people, introducing artifacts and raising privacy concerns. We propose a human-aware 3D Gaussian Splatting (3DGS) pipeline that automatically removes transient human artifacts while maintaining scene fidelity. 
 
 Our pipeline integrates human detection, 2D inpainting to cleanse human-related 3D initial points, masked 3DGS training, and targeted pruning to suppress residual errors. Experiments on real-world videos, including crowded environments, show that our method effectively reduces human artifacts while maintaining high-quality detail, enabling practical and immersive virtual scene generation.
