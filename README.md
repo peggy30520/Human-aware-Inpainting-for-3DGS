@@ -62,7 +62,7 @@ All source videos were captured using a smartphone camera.
 * Expo_escalator: A first-person perspective on an escalator at the Osaka Expo 2025, featuring surrounding crowds.
 * Expo_pavilion: Visitors lining up in front of a pavilion at the Osaka Expo 2025.
 
-## BibTex
+## BibTeX
 ```
 @inproceedings{Liao2025,
   title = {Human-Aware Inpainting for 3D Gaussian Splatting in Dynamic Scenes},
